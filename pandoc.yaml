@@ -1,0 +1,12 @@
+dir: ltr
+documentclass: ctexart
+css:
+  - /pandoc.css
+colorlinks: true
+classoption:
+  - UTF8
+  - AutoFakeBold
+  - AutoFakeSlant
+  - "fontset=none"
+  - "linespread=1.25"
+geometry: "a4paper,left=2.29cm,right=2.29cm,top=1.91cm,bottom=2.41cm,footskip=2em"
