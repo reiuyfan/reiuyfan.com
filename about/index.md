@@ -10,7 +10,7 @@ Fingerprint: A847 FD0F 5095 8162 B028  DFFE 3E6F 483E B333 4786
 
 Email: [admin@reiuyfan.com](mailto:admin@reiuyfan.com)
 
-Telegram: [@reiuyfan](https://t.me/reiuyfan)
+Telegram: [t.me/reiuyfan](https://t.me/reiuyfan)
 
 # 关于本站
 
